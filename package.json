@@ -7,7 +7,7 @@
     "start": "node server.js",
     "server": "nodemon server.js"
   },
-  "author": "Pat Flynn",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.3",
